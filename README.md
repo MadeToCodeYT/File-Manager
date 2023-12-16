@@ -6,7 +6,7 @@ A file manager made with only text! How amazing! So far, you can only look at th
 - Used to navigate between folders and files.
 
 ### Enter
-- Used to open a `folder` not file.
+- Used to open a `folder` not a file.
 
 ### Backspace
 - Used to exit a folder. `(Will crash if you go too far back.)`
